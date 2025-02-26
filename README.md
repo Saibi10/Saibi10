@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Backend
 - 🌱 I’m currently learning Computer Science in Fast University Islamabad, Pakistan
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me sohaib.coding@gmail.com
+- 📫 How to reach me sohaib.aslam2467@gmail.com
 - 😄 Pronouns: Saibi
 - ⚡ Fun fact: I play games so much so do I love to make games
 
