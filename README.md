@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sohaib Aslam
-- 👀 I’m interested in Game Development and Backend
+- 👀 I’m interested in Game Development and Block Chain development
 - 🌱 I’m currently learning Computer Science in Fast University Islamabad, Pakistan
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me sohaib.aslam2467@gmail.com
